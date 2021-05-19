@@ -8,7 +8,7 @@ from sys import executable
 from datetime import datetime
 import pytz
 import time
-from telegram import ParseMode, BotCommand, InlineKeyboardMarkup
+from telegram import ParseMode, BotCommand
 from telegram.ext import CommandHandler, run_async
 from bot import dispatcher, updater, botStartTime, IMAGE_URL
 from bot.helper.ext_utils import fs_utils
