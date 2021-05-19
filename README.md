@@ -1,6 +1,7 @@
 [![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
 
 # Slam Mirror Bot
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/breakdowns/slam-mirrorbot?include_prereleases)
 > This is a Telegram bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 # Features supported:
