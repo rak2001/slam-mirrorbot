@@ -2,6 +2,8 @@
 
 # Slam Mirror Bot
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/breakdowns/slam-mirrorbot?include_prereleases)
+![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot)
+![GitHub forks](https://img.shields.io/github/forks/breakdowns/slam-mirrorbot)
 ![GitHub contributors](https://img.shields.io/github/contributors/breakdowns/slam-mirrorbot)
 ![GitHub repo size](https://img.shields.io/github/repo-size/breakdowns/slam-mirrorbot)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/breakdowns/slam-mirrorbot)
