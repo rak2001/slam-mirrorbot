@@ -232,3 +232,7 @@ Thanks to:
 - [SVR666](https://github.com/SVR666/) for some features & fixes
 
 And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/slam-mirrorbot/graphs/contributors).
+
+<a href="https://github.com/breakdowns/slam-mirrorbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=breakdowns/slam-mirrorbot" />
+</a>
