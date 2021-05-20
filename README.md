@@ -218,6 +218,9 @@ Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of 
 
 # Contributing
 Contributers are always welcome.
+<a href="https://github.com/breakdowns/slam-mirrorbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=breakdowns/slam-mirrorbot" />
+</a>
 
 # Credits
 
