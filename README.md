@@ -217,13 +217,16 @@ Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of 
 <p><a href="https://t.me/SlamMirrorSupport"> <img src="https://img.shields.io/badge/Slam%20Mirror%20Support-blue?style=for-the-badge&logo=telegram" width="230""/></a></p>
 
 # Contributing
-Contributers are always welcome.
+You can support us by contributing to this project development. If you have any suggestions or improvements, please create an issue. Pull Requests are most welcome !
 
 <a href="https://github.com/breakdowns/slam-mirrorbot/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=breakdowns/slam-mirrorbot" />
 </a>
 
 # Credits
+<a href="https://github.com/breakdowns/slam-mirrorbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=breakdowns/slam-mirrorbot" />
+</a>
 
 Thanks to:
 - [out386](https://github.com/out386) heavily inspired from telegram bot which is written in JS
